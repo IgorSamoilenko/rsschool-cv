@@ -17,8 +17,10 @@
 ---
 ### My Skills:
 * HTML5
+* CSS (basics)
 * Git
 * JavaScript (basics)
+* SQL (basics)
 ---
 ### Code example:
 [Count the Monkeys!
